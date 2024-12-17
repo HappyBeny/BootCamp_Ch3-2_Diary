@@ -1,6 +1,6 @@
-package com.example.ch32_diary.Lv2.repository;
+package com.example.ch3_2_diary.repository;
 
-import com.example.ch32_diary.Lv2.entity.Schedule;
+import com.example.ch3_2_diary.entity.Schedule;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.server.ResponseStatusException;

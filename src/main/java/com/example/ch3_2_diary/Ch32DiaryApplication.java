@@ -1,4 +1,4 @@
-package com.example.ch32_diary;
+package com.example.ch3_2_diary;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
