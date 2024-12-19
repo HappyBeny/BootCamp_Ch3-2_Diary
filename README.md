@@ -112,6 +112,7 @@ https://documenter.getpostman.com/view/40135026/2sAYJ1mNoP
 ## 5️⃣ 클래스/메서드 설명
 
 **<details><summary>Entity</summary>**
+
 - **Member**: 회원 정보를 표현하는 엔티티 클래스  
   - **`id`**: 회원 ID (Long)  
   - **`username`**: 사용자 이름 (String)  
@@ -125,11 +126,10 @@ https://documenter.getpostman.com/view/40135026/2sAYJ1mNoP
   - **`schedule`**: 일정 제목 (String)  
   - **`description`**: 일정 설명 (String)  
   - **`writer`**: 작성자 (String)  
-  - **`createdDate`**: 생성 날짜 (LocalDateTime)  
-  - **`updatedDate`**: 수정 날짜 (LocalDateTime)  
+  - **`createdDate`**: 생성 날짜 (LocalDateTime)
+  - **`updatedDate`**: 수정 날짜 (LocalDateTime)
+  
 </details>
-
----
 
 ### **<details><summary>DTO</summary>**
 
