@@ -268,3 +268,33 @@ https://documenter.getpostman.com/view/40135026/2sAYJ1mNoP
 </ul>
 
 </details>
+<br><br>
+
+## 6️⃣기술 스택
+### **Backend**
+- **Java**: 17  
+- **Spring Boot**: 3.x  
+- **Spring Data JPA**: 데이터 접근 및 ORM  
+- **Hibernate**: ORM 프레임워크  
+- **Jakarta Servlet**: 서블릿 API  
+- **Lombok**: 코드 자동 생성 (Getter, Setter, Constructor)  
+
+### **Database**
+- **H2 Database**: 인메모리 데이터베이스 (개발용)  
+- **MySQL**: 관계형 데이터베이스 (배포용)  
+
+### **Build Tool**
+- **Maven**: 의존성 관리 및 빌드  
+
+### **Security**
+- **Session & Cookies**: 사용자 인증 및 세션 관리  
+
+### **Testing**
+- **JUnit**: 단위 테스트  
+- **Postman**: API 테스트  
+
+### **Tools**
+- **IntelliJ IDEA**: 개발 환경  
+- **Git**: 버전 관리  
+- **DBeaver**: 데이터베이스 클라이언트  
+
