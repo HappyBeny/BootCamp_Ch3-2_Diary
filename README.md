@@ -45,7 +45,7 @@
   생성일자로, **DATETIME(6)** 타입의 값이다.  
 - **`updated_date`**  
   수정일자로, **DATETIME(6)** 타입의 값이다.  
+<br><br>
 
-
-<br><br><br>
-Lv4 API 명세서 : https://documenter.getpostman.com/view/40135026/2sAYJ1mNoP
+## 2️⃣ API 명세서
+https://documenter.getpostman.com/view/40135026/2sAYJ1mNoP
