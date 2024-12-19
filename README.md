@@ -138,9 +138,7 @@ https://documenter.getpostman.com/view/40135026/2sAYJ1mNoP
 
 </details>
 
----
-
-### **<details><summary>DTO</summary>**
+**<details><summary>DTO</summary>**
 
 <ul>
   <li><b>CreateMemberRequestDto</b>
@@ -200,9 +198,7 @@ https://documenter.getpostman.com/view/40135026/2sAYJ1mNoP
 
 </details>
 
----
-
-### **<details><summary>Repository</summary>**
+**<details><summary>Repository</summary>**
 
 <ul>
   <li><b>MemberRepository</b>
@@ -219,9 +215,7 @@ https://documenter.getpostman.com/view/40135026/2sAYJ1mNoP
 
 </details>
 
----
-
-### **<details><summary>Service</summary>**
+**<details><summary>Service</summary>**
 
 <ul>
   <li><b>MemberService</b>
@@ -242,9 +236,7 @@ https://documenter.getpostman.com/view/40135026/2sAYJ1mNoP
 
 </details>
 
----
-
-### **<details><summary>Controller</summary>**
+**<details><summary>Controller</summary>**
 
 <ul>
   <li><b>MemberController</b>
@@ -265,9 +257,7 @@ https://documenter.getpostman.com/view/40135026/2sAYJ1mNoP
 
 </details>
 
----
-
-### **<details><summary>Configuration</summary>**
+**<details><summary>Configuration</summary>**
 
 <ul>
   <li><b>WebConfig</b>
