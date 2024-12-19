@@ -111,7 +111,7 @@ https://documenter.getpostman.com/view/40135026/2sAYJ1mNoP
 
 ## 5️⃣ 클래스/메서드 설명
 
-### **<details><summary>Entity</summary>**
+**<details><summary>Entity</summary>**
 
 - **Member**: 회원 정보를 표현하는 엔티티 클래스  
   - **`id`**: 회원 ID (Long)  
