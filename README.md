@@ -49,3 +49,10 @@
 
 ## 2️⃣ API 명세서
 https://documenter.getpostman.com/view/40135026/2sAYJ1mNoP
+<br><br>
+
+## 3️⃣ ERD(Entity-Relationship Diagram)
+![image](https://github.com/user-attachments/assets/ccb51bd9-6d34-4a7a-98e3-92116145a4ab)
+<br><br>
+
+
