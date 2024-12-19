@@ -111,7 +111,7 @@ https://documenter.getpostman.com/view/40135026/2sAYJ1mNoP
 
 ## 5️⃣ 클래스/메서드 설명
 
-### **<details><summary>Entity</summary>**
+<details><summary><b>Entity</b></summary>
 
 <ul>
   <li><b>Member</b>
@@ -137,6 +137,7 @@ https://documenter.getpostman.com/view/40135026/2sAYJ1mNoP
 </ul>
 
 </details>
+
 
 
 ### **<details><summary>DTO</summary>**
